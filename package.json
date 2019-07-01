@@ -1,0 +1,29 @@
+{
+  "name": "jest-course-platzi",
+  "version": "1.0.0",
+  "description": "pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemf/jest-course-platzi.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "unit testing"
+  ],
+  "author": "@wemf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wemf/jest-course-platzi/issues"
+  },
+  "homepage": "https://github.com/wemf/jest-course-platzi#readme",
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.8.0"
+  }
+}
