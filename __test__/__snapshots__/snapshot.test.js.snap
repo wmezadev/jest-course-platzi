@@ -9,3 +9,10 @@ Object {
   "status": "Alive",
 }
 `;
+
+exports[`Es hora de las instantaneas Tenemos una excepción dentro del código 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "William Meza",
+}
+`;
